@@ -1,6 +1,5 @@
 ### Hi there I'm Emir Ata Batur 👋
-
-##![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/123972519/216711450-1e440451-a482-4f38-a782-a1264a8dbd0e.png)
+![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/123972519/216711450-1e440451-a482-4f38-a782-a1264a8dbd0e.png)
 
 ## Connect with me 
 
