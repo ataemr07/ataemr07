@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ataemr07&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ataemr07&show_icons=true&theme=radical)
 
+![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/123972519/216711450-1e440451-a482-4f38-a782-a1264a8dbd0e.png)
