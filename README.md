@@ -1,6 +1,6 @@
 ### Hi there I'm Emir Ata Batur 👋
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/123972519/216711450-1e440451-a482-4f38-a782-a1264a8dbd0e.png)
-<img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F2Hs0&psig=AOvVaw2GHJC6Vf2CYbsQv7a_Q3RI&ust=1675545396095000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjcnJSj-vwCFQAAAAAdAAAAABAc" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F2Hs0&psig=AOvVaw2GHJC6Vf2CYbsQv7a_Q3RI&ust=1675545396095000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjcnJSj-vwCFQAAAAAdAAAAABAc)" width="500" height="320" />
 
 
 ## Connect with me 
