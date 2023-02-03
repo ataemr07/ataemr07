@@ -1,6 +1,6 @@
 ### Hi there I'm Emir Ata Batur 👋
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FYetkinGencler&psig=AOvVaw1tXrstd7DY1aFAS2eEMVcS&ust=1675543517214000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC70p-c-vwCFQAAAAAdAAAAABAm" width="auto">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FYetkinGencler&psig=AOvVaw1tXrstd7DY1aFAS2eEMVcS&ust=1675543517214000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC70p-c-vwCFQAAAAAdAAAAABAm"width="auto">
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ataemir05)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ataemr16/) 
